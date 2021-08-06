@@ -1,0 +1,10 @@
+@import './normalize.css';
+
+/* :root{
+  --color:#008c8c;
+  --fontSize:30px
+} */
+*{
+  margin: 0;
+  padding: 0;
+}
